@@ -329,7 +329,7 @@ footer {
   width: 100px;
   height: 37px;
   background-color: #23293B;
-  color: #F6F7f8;
+  color: #F6F7F8;
   font-size: 1.8rem;
   border-radius: 5px;
   cursor: pointer;
@@ -339,7 +339,7 @@ footer {
   justify-content: center;
 }
 .home .walk .walk-text .btn:hover {
-  background-color: #F6F7f8;
+  background-color: #F6F7F8;
   color: #23293B;
 }
 @media (max-width: 500px) {
