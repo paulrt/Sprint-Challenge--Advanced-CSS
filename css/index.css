@@ -135,7 +135,7 @@ html {
 html,
 body {
   font-family: 'Ubuntu', sans-serif;
-  color: #5e6164;
+  color: #5E6164;
 }
 h1,
 h2,
@@ -143,7 +143,7 @@ h3,
 h4,
 h5 {
   font-family: 'Russo One', sans-serif;
-  color: #23293b;
+  color: #23293B;
 }
 h2 {
   font-size: 3.2rem;
@@ -328,8 +328,8 @@ footer {
 .home .walk .walk-text .btn {
   width: 100px;
   height: 37px;
-  background-color: #23293b;
-  color: #f6f7f8;
+  background-color: #23293B;
+  color: #F6F7f8;
   font-size: 1.8rem;
   border-radius: 5px;
   cursor: pointer;
@@ -339,8 +339,8 @@ footer {
   justify-content: center;
 }
 .home .walk .walk-text .btn:hover {
-  background-color: #f6f7f8;
-  color: #23293b;
+  background-color: #F6F7f8;
+  color: #23293B;
 }
 @media (max-width: 500px) {
   .home .walk .walk-text .btn {
